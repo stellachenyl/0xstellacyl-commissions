@@ -5,7 +5,7 @@ export const mintText = [
 ];
 
 //header image in the ui. replace with your own
-export const image = "https://cdn.discordapp.com/attachments/1187546925252235398/1188030339814268928/49.png";
+export const image = "https://cdn.discordapp.com/attachments/1186630579253415996/1188938718321573949/00097.png";
 
 //website title
 export const headerText = "stellacyl's commissions";
